@@ -1,0 +1,4 @@
+CREATE SCHEMA [sds]
+    AUTHORIZATION [dbo];
+GO
+

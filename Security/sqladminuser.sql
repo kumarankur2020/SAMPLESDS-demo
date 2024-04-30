@@ -1,0 +1,3 @@
+CREATE USER [sqladminuser] WITHOUT LOGIN;
+GO
+

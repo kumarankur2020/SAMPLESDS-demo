@@ -1,0 +1,4 @@
+CREATE SCHEMA [eminExt]
+    AUTHORIZATION [dbo];
+GO
+

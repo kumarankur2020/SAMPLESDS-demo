@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\kankur\\source\\repos\\SAMPLESDS-demo\\SAMPLESDS-demo.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Users\\kankur\\source\\repos\\SAMPLESDS-demo\\SAMPLESDS-demo.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\kankur\\source\\repos\\SAMPLESDS-demo\\SAMPLESDS-demo.sqlproj",
+        "projectName": "SAMPLESDS-demo",
+        "projectPath": "c:\\Users\\kankur\\source\\repos\\SAMPLESDS-demo\\SAMPLESDS-demo.sqlproj",
+        "packagesPath": "C:\\Users\\kankur\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\kankur\\source\\repos\\SAMPLESDS-demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kankur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
