@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Stb/fSKGjuYxH8GKnsQARj5mZ9PuOwBjec9Jb5N0lqLx+f+aA5x9SeYX9t0A6z0RHT20cKVLhZcNuQFP/LH6CA==",
+  "dgSpecHash": "ZZTgfEJiUy7Be2IoHT1XiGQVaI1v4yFFmZ0UG2I9FKoc9UlNfB1eYIlFEc1ytSJnDnA8ypVmIFZ47032xA6hug==",
   "success": true,
-  "projectFilePath": "c:\\Users\\kankur\\source\\repos\\SAMPLESDS-demo\\SAMPLESDS-demo.sqlproj",
+  "projectFilePath": "c:\\Users\\kankur\\source\\repos\\SAMPLESDS-demo\\SDS-POC.sqlproj",
   "expectedPackageFiles": [
     "C:\\Users\\kankur\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
     "C:\\Users\\kankur\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
